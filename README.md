@@ -11,25 +11,33 @@
 
 ### About
 <img src="demoImages/about.png"/> 
+<img src="demoImages/edupro.png"/>
 
 ### Services
-<img src="demoImages/services.png"/>
+<img src="demoImages/service.png"/>
 
 ### Portfolio
 <img src="demoImages/portfolio.png"/>
 
 ### Contact
 <img src="demoImages/contact.png"/>
+<img src="demoImages/footer.png"/>
+
+### Change Colors
+<img src="demoImages/changeColor.png"/>
+
+### Dark Mode
+<img src="demoImages/darkMode.png"/>
 
 ## Features
-Switch pages with Javascript without reloading
+- Switch pages with Javascript without reloading
 <br></br>
-Change Colors with Page when click choose colors
+- Change Colors with Page when click choose colors
 <br></br>
-Change Dark Mode
+- Change Dark Mode
 <br></br>
-Download CV
+- Download CV
 <br></br>
-Send email to the owner and statistics on google sheet
+- Send email to the owner and statistics on google sheet
 <br></br>
-Responsive Screen
+- Responsive Screen
