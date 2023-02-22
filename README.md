@@ -1,6 +1,6 @@
 <h1 align="center">Portfolio</h1>
 
-<p align="center">Responsive Personal Portfolio Website Design using HTML CSS and JavaScript</p>
+<p align="center">Responsive Personal Portfolio Website Design using HTML, CSS and JavaScript</p>
 
 </p>
 
