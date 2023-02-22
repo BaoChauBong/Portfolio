@@ -41,3 +41,5 @@
 - Send email to the owner and statistics on google sheet
 <br></br>
 - Responsive Screen
+<br></br>
+- Animation
