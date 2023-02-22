@@ -7,19 +7,19 @@
 ## Screenshots
 
 ### Homepage
-<img src="demoImages/home.png" width="200"/> 
+<img src="demoImages/home.png"/> 
 
 ### About
-<img src="demoImages/about.png" width="200"/> 
+<img src="demoImages/about.png"/> 
 
 ### Services
-<img src="demoImages/services.png" width="200"/>
+<img src="demoImages/services.png"/>
 
 ### Portfolio
-<img src="demoImages/portfolio.png" width="200"/>
+<img src="demoImages/portfolio.png"/>
 
 ### Contact
-<img src="demoImages/contact.png" width="200"/>
+<img src="demoImages/contact.png"/>
 
 ## Features
 Switch pages with Javascript without reloading
