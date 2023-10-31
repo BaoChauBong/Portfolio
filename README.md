@@ -7,26 +7,27 @@
 ## Screenshots
 
 ### Homepage
-<img src="demoImages/home.png" width="100px"/> 
+<img src="demoImages/home.png" width="400"/> 
 
 ### About
-<img src="demoImages/about.png" width="100px"/> 
+<img src="demoImages/about.png" width="400"/> 
+<img src="demoImages/about2.png" width="400"/> 
 
 ### Services
-<img src="demoImages/service.png"/>
+<img src="demoImages/service.png"  width="400"/>
 
 ### Portfolio
-<img src="demoImages/portfolio.png"/>
+<img src="demoImages/portfolio.png"  width="400"/>
 
 ### Contact
-<img src="demoImages/contact.png"/>
-<img src="demoImages/footer.png"/>
+<img src="demoImages/contact.png"  width="400"/>
+<img src="demoImages/footer.png"  width="400"/>
 
 ### Change Colors
-<img src="demoImages/changeColor.png"/>
+<img src="demoImages/changeColor.png"  width="400"/>
 
 ### Dark Mode
-<img src="demoImages/darkMode.png"/>
+<img src="demoImages/darkMode.png" width="400"/>
 
 ## Features
 - Switch pages with Javascript without reloading
