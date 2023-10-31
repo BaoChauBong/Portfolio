@@ -11,7 +11,6 @@
 
 ### About
 <img src="demoImages/about.png"/> 
-<img src="demoImages/about1.png"/> 
 
 ### Services
 <img src="demoImages/service.png"/>
