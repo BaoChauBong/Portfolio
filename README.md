@@ -10,24 +10,24 @@
 <img src="demoImages/home.png" width="1000"/> 
 
 ### About
-<img src="demoImages/about.png" width="400"/> 
-<img src="demoImages/about2.png" width="400"/> 
+<img src="demoImages/about.png" width="1000"/> 
+<img src="demoImages/about2.png" width="1000"/> 
 
 ### Services
-<img src="demoImages/service.png"  width="400"/>
+<img src="demoImages/service.png"  width="1000"/>
 
 ### Portfolio
-<img src="demoImages/portfolio.png"  width="400"/>
+<img src="demoImages/portfolio.png"  width="1000"/>
 
 ### Contact
-<img src="demoImages/contact.png"  width="400"/>
-<img src="demoImages/footer.png"  width="400"/>
+<img src="demoImages/contact.png"  width="1000"/>
+<img src="demoImages/footer.png"  width="1000"/>
 
 ### Change Colors
-<img src="demoImages/changeColor.png"  width="400"/>
+<img src="demoImages/changeColor.png"  width="1000"/>
 
 ### Dark Mode
-<img src="demoImages/darkMode.png" width="400"/>
+<img src="demoImages/darkMode.png" width="1000"/>
 
 ## Features
 - Switch pages with Javascript without reloading
