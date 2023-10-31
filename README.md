@@ -10,7 +10,7 @@
 <img src="demoImages/home.png"/> 
 
 ### About
-<img src="demoImages/about1.png"/> 
+<img src="demoImages/about.png"/> 
 <img src="demoImages/about2.png"/> 
 
 ### Services
