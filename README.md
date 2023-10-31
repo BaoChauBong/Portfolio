@@ -11,6 +11,7 @@
 
 ### About
 <img src="demoImages/about.png" width="1000"/> 
+<img src="demoImages/about1.png" width="1000"/> 
 <img src="demoImages/about2.png" width="1000"/> 
 
 ### Services
