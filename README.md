@@ -7,7 +7,7 @@
 ## Screenshots
 
 ### Homepage
-<img src="demoImages/home.png" width="800"/> 
+<img src="demoImages/home.png" width="1000"/> 
 
 ### About
 <img src="demoImages/about.png" width="400"/> 
